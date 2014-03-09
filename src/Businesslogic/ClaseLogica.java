@@ -4,6 +4,9 @@ import UI.Grafico;
 
 public class ClaseLogica {
     
+    // esta clase permite crear la iu de la aplicacion
+    
+    
     public Double c;
     
     public void Recibir(String a, String b){
